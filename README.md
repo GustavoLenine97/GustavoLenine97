@@ -1,23 +1,49 @@
-👋 Olá, eu sou Gustavo Lenine
+# 👋 Olá, eu sou Gustavo Lenine
 
-💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack em formação, com foco em desenvolvimento de aplicações web.
 
-🚀 Tecnologias
-React • Node.js • Express • PostgreSQL • Docker • JWT • Socket.IO
+## 🚀 Tecnologias
 
-📌 Projetos em destaque
+- React
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Docker
+- JWT
+- Socket.IO
+- Git & GitHub
 
-🎫 Help Desk
-Sistema full-stack de gerenciamento de chamados com autenticação,
-permissões, comentários, PostgreSQL e comunicação em tempo real.
+## 📌 Projetos em destaque
 
-🎬 Netflix Clone
-Aplicação full-stack inspirada na Netflix, utilizando React,
-Node.js, Express e PostgreSQL.
+### 🎫 Help Desk
+Sistema Full Stack para gerenciamento de chamados, desenvolvido com React, Node.js, Express e PostgreSQL.
 
-🧠 Atualmente estudando
-Desenvolvimento Full Stack, APIs REST, bancos de dados,
-autenticação e arquitetura de aplicações.
+Principais funcionalidades:
+- Autenticação com JWT
+- Controle de permissões
+- Criação e gerenciamento de chamados
+- Categorias e prioridades
+- Sistema de comentários
+- Atualizações em tempo real com Socket.IO
+- PostgreSQL + Prisma
+- Docker
 
-📫 Contato
+### 🎬 Netflix Clone
+Aplicação Full Stack inspirada na Netflix, desenvolvida com React, Node.js, Express, Prisma e PostgreSQL.
+
+O projeto utiliza banco de dados PostgreSQL para armazenar e disponibilizar os dados dos filmes.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- APIs REST
+- PostgreSQL e bancos de dados
+- Autenticação e autorização
+- Arquitetura de aplicações
+- Docker
+
+## 📫 Contato
+
 GitHub: GustavoLenine97
